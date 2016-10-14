@@ -8,6 +8,6 @@ body.txt: body.html
 
 
 test:
-	echo torkel@normal.no | python main.py -s "Testing SpamBot"
+	echo luke.huynugyen@gmail.com | python main.py -s "Testing SpamBot"
 
 # @todo add --no-wait for test target
